@@ -107,7 +107,8 @@ a {
 }
 .hero-section{
   height: 299px;
-  background-image:url("/./images/градиентный-фон 2.png");
+  /*background-image:url("/./images/градиентный-фон 2.png");*/
+  background-image:url("./градиентный-фон 2.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -174,6 +175,9 @@ h2{
   border: 1px solid #ffff;
   color: #999999;
   margin-top: 15px;
+}
+.privacy-small{
+  display: none;
 }
 .price{
   background-color: #E22A30;
